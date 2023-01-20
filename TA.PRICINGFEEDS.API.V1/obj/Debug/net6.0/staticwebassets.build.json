@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wnKCVnzYuDOaJUjWoVYYFpEL58zYPBizu1b8cNpZuxU=",
+  "Source": "TA.PRICINGFEEDS.API.V1",
+  "BasePath": "_content/TA.PRICINGFEEDS.API.V1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

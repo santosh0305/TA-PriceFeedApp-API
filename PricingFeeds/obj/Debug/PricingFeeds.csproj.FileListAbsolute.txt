@@ -1,0 +1,12 @@
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\UNITOFWORK AND REPOSITORY PATTERN.exe.config
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\UNITOFWORK AND REPOSITORY PATTERN.exe
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\UNITOFWORK AND REPOSITORY PATTERN.pdb
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\EntityFramework.dll
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\EntityFramework.xml
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\obj\Debug\PricingFeeds.csproj.AssemblyReference.cache
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\obj\Debug\PricingFeeds.csproj.CoreCompileInputs.cache
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\obj\Debug\PricingFeeds.csproj.CopyComplete
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\obj\Debug\UNITOFWORK AND REPOSITORY PATTERN.exe
+D:\Learning\TA\TA.PRICINGFEEDS.API\PricingFeeds\obj\Debug\UNITOFWORK AND REPOSITORY PATTERN.pdb

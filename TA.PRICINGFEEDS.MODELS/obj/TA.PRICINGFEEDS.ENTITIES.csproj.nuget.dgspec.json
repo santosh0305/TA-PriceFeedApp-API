@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj",
+        "projectName": "TA.PRICINGFEEDS.ENTITIES",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.INFRASTRUCTURE\\TA.PRICINGFEEDS.INFRASTRUCTURE.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.INFRASTRUCTURE\\TA.PRICINGFEEDS.INFRASTRUCTURE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.INFRASTRUCTURE\\TA.PRICINGFEEDS.INFRASTRUCTURE.csproj",
+        "projectName": "TA.PRICINGFEEDS.INFRASTRUCTURE",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.INFRASTRUCTURE\\TA.PRICINGFEEDS.INFRASTRUCTURE.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.INFRASTRUCTURE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

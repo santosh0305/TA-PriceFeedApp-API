@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.API.V1\\TA.PRICINGFEEDS.API.V1.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.API.V1\\TA.PRICINGFEEDS.API.V1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.API.V1\\TA.PRICINGFEEDS.API.V1.csproj",
+        "projectName": "TA.PRICINGFEEDS.API.V1",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.API.V1\\TA.PRICINGFEEDS.API.V1.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.API.V1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj"
+              },
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\TA.PRICINGFEEDS.REPOSITORIES.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\TA.PRICINGFEEDS.REPOSITORIES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj",
+        "projectName": "TA.PRICINGFEEDS.DATA.V1",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj",
+        "projectName": "TA.PRICINGFEEDS.ENTITIES",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\TA.PRICINGFEEDS.REPOSITORIES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\TA.PRICINGFEEDS.REPOSITORIES.csproj",
+        "projectName": "TA.PRICINGFEEDS.REPOSITORIES",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\TA.PRICINGFEEDS.REPOSITORIES.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.REPOSITORIES\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj"
+              },
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj"
+              },
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\TA.PRICINGFEEDS.SERVICE.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\TA.PRICINGFEEDS.SERVICE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\TA.PRICINGFEEDS.SERVICE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\TA.PRICINGFEEDS.SERVICE.csproj",
+        "projectName": "TA.PRICINGFEEDS.SERVICE",
+        "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\TA.PRICINGFEEDS.SERVICE.csproj",
+        "packagesPath": "C:\\Users\\sknanduri\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.SERVICE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sknanduri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/axMg3g7tQ9byCVnudXCEKcfq94MphfLy9x9WAou3a3aontTce9/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.DATA.V1\\TA.PRICINGFEEDS.DATA.V1.csproj"
+              },
+              "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj": {
+                "projectPath": "D:\\Learning\\TA\\TA.PRICINGFEEDS.API\\TA.PRICINGFEEDS.MODELS\\TA.PRICINGFEEDS.ENTITIES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper.Excel": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
